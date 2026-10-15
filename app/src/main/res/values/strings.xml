@@ -4,3 +4,13 @@
     <string name="cd_header">Gambar header neon</string>
     <string name="cd_kalender">Pilih tanggal</string>
 
+    <string name="judul_form">Form Biodata</string>
+    <string name="subjudul_form">Silahkan isi biodata Anda dibawah ini !!!</string>
+
+    <string name="hint_nama_depan">Nama Depan</string>
+    <string name="hint_nama_belakang">Nama Belakang</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_tgl_lahir">Tgl Lahir</string>
+    <string name="hint_experience">Experience</string>
+    <string name="label_skill">Pilih Skill Anda :</string>
+
