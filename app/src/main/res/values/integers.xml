@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <integer name="durasi_popup_ms">5000</integer>
+    <integer name="dot_count">4</integer>
+</resources>
