@@ -2,3 +2,5 @@
 <resources>
     <dimen name="field_radius">24dp</dimen>
     <dimen name="card_radius">28dp</dimen>
+    <dimen name="button_radius">16dp</dimen>
+    <dimen name="button_height">52dp</dimen>
