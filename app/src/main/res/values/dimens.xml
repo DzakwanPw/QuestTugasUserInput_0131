@@ -15,3 +15,8 @@
     <dimen name="dot_size">6dp</dimen>
     <dimen name="spacing_small">8dp</dimen>
     <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="title_size">28dp</dimen>
+    <dimen name="subtitle_size">12dp</dimen>
+    <dimen name="label_size">14dp</dimen>
+    <dimen name="checkbox_text_size">12dp</dimen>
+</resources>
