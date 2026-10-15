@@ -5,3 +5,8 @@
     <dimen name="button_radius">16dp</dimen>
     <dimen name="button_height">52dp</dimen>
     <dimen name="header_height">260dp</dimen>
+    <dimen name="card_top_margin">190dp</dimen>
+    <dimen name="card_bottom_margin">0dp</dimen>
+    <dimen name="card_elevation">12dp</dimen>
+    <dimen name="card_padding_horizontal">24dp</dimen>
+    <dimen name="card_padding_vertical">24dp</dimen>
