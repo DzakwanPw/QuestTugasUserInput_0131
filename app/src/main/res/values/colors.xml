@@ -7,5 +7,7 @@
     <color name="text_title">#FF6A3DB8</color>
     <color name="text_subtitle">#FF757575</color>
     <color name="text_input">#FF1C1B1F</color>
+    <color name="text_hint">#FF616161</color>
+    <color name="outline_gray">#FF79747E</color>
 
 </resources>
