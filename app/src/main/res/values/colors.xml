@@ -3,5 +3,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="purple_primary">#FF6A3DB8</color>
     <color name="screen_bg">#FFF7F5FB</color>
+    <color name="card_bg">#FFFFFFFF</color>
+    <color name="text_title">#FF6A3DB8</color>
+    <color name="text_subtitle">#FF757575</color>
+    <color name="text_input">#FF1C1B1F</color>
 
 </resources>
