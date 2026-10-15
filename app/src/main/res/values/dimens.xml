@@ -10,3 +10,6 @@
     <dimen name="card_elevation">12dp</dimen>
     <dimen name="card_padding_horizontal">24dp</dimen>
     <dimen name="card_padding_vertical">24dp</dimen>
+    <dimen name="dot_padding">16dp</dimen>
+    <dimen name="dot_spacing">6dp</dimen>
+    <dimen name="dot_size">6dp</dimen>
