@@ -4,3 +4,4 @@
     <dimen name="card_radius">28dp</dimen>
     <dimen name="button_radius">16dp</dimen>
     <dimen name="button_height">52dp</dimen>
+    <dimen name="header_height">260dp</dimen>
