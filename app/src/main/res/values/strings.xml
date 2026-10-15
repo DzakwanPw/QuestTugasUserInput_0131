@@ -14,3 +14,7 @@
     <string name="hint_experience">Experience</string>
     <string name="label_skill">Pilih Skill Anda :</string>
 
+    <string name="tombol_proceed">Proceed</string>
+    <string name="tombol_ok">OK</string>
+    <string name="tombol_batal">Batal</string>
+
