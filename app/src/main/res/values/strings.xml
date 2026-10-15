@@ -24,3 +24,10 @@
     <string name="judul_hasil">Data Biodata</string>
     <string name="format_hasil">Nama: %1$s %2$s\nEmail: %3$s\nTgl Lahir: %4$s\nExperience: %5$s\nSkill: %6$s</string>
 
+    <string-array name="experience_list">
+        <item>&lt; 1 Tahun</item>
+        <item>1 - 3 Tahun</item>
+        <item>3 - 5 Tahun</item>
+        <item>&gt; 5 Tahun</item>
+    </string-array>
+
