@@ -31,3 +31,9 @@
         <item>&gt; 5 Tahun</item>
     </string-array>
 
+    <string-array name="skill_list">
+        <item>Android</item>
+        <item>UI/UX</item>
+        <item>Web</item>
+    </string-array>
+</resources>
