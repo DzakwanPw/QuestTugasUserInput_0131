@@ -18,3 +18,6 @@
     <string name="tombol_ok">OK</string>
     <string name="tombol_batal">Batal</string>
 
+    <string name="format_tanggal">dd/MM/yyyy</string>
+    <string name="pemisah_skill">, </string>
+
